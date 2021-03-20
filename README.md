@@ -1,4 +1,4 @@
-# Burger-Builder
+# burger-builder
 React Burger Builder Web App
 
 A Simple burger Builder Web App built using React
